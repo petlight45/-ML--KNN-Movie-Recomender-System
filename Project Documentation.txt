@@ -1,0 +1,39 @@
+Project Name;
+Movie Recommender System
+
+Project Objective;
+The projective objectives are as follows;
+1. Movie Recommendation; To recommend similar movies for a user based on a particular movie specified by the user;
+2. Recommended Movies Catalog; To give users movie recommendation based on users previous movie searches;
+
+
+Technological Fields Employed in the Project;
+1. Web Application Development;
+2. Machine Learning
+3. Data Science
+
+
+Components of the Project;
+1. Python (Programming Language)
+2. HTML (Markup Language)
+3. CSS (Styling Language)
+4. Bootstrap (CSS Framework)
+5. Javascript (Programming Language)
+6. ReactJS (Frontend Framework)
+7. Django (Backend Framework)
+8. K-Nearest Neighbour(KNN) (Algorithm)
+#EACH OF THE COMPONENTS AND THEIR RESPECTIVE FUNCTION WILL BE EXPLAINED TO DETAIL
+
+Project Development Steps;
+...Performing research on the project and how it can be achieved;
+...Adopting a suitable algorithm for the Movie Recommendation objective;
+...Sourcing for data that would be used in training the adopted algorithm;
+...Building the adopted algorithm based on the sourced data;
+...Training the developed built algorithm with the collected data;
+...Deploying the algorithm as a Web Application.
+#EACH OF THE PROJECT STEPS WILL BE EXPLAINED TO DETAIL
+
+
+
+
+
